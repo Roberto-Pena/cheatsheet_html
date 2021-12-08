@@ -1,3 +1,17 @@
 h1 {
     background-color: blue;
+    text-align: center;
+    color: white;
 }
+
+#Table1 {
+    text-align: right;
+    border: 10px blue;
+    
+}
+
+#table_one_head {
+    background-color: cyan;
+    
+}
+
